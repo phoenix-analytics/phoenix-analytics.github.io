@@ -1,5 +1,6 @@
 # PHOENIX ANALYTICS, INC
 ### Crime Analysis Solutions for Local Law Enforcement
+![image info](./images/heatmap-header2.png)
 
 ## STATISTICAL ANALYSIS
 Drill down your crime data to find patterns and trends. Use frequency analysis to determine time of day, shift and days of the week that crimes are occurring.
